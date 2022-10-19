@@ -1,6 +1,6 @@
 package com.alireza.repository;
 
-import com.alireza.configuration.DatabaseConnection;
+import com.alireza.repository.configuration.DatabaseConnection;
 import com.alireza.model.FootballMatches;
 
 import java.sql.Connection;

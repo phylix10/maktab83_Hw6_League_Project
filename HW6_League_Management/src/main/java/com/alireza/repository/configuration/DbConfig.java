@@ -1,4 +1,4 @@
-package com.alireza.configuration;
+package com.alireza.repository.configuration;
 
 public class DbConfig {
     public static final String DB_URL = "jdbc:postgresql://localhost:5432/league";
