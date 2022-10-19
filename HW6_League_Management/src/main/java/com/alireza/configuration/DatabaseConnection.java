@@ -1,4 +1,4 @@
-package com.alireza.repository.configuration;
+package com.alireza.configuration;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
